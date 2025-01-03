@@ -1,9 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Maxim, a full-time full-stack developer 👨‍💻</div>  
+  ### <div align="center">I'm Maxim, a full-time full-stack developer 👨‍💻</div>  
   
 
 - *💪 I am currently studying React, TypeScript, and artificial intelligence creation.*  
