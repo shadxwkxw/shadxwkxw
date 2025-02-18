@@ -19,7 +19,7 @@
 ### Frontend  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,bootstrap,css,figma,firebase,html,nodejs,npm,redux,ts&perline=3" />
+    <img src="https://skillicons.dev/icons?i=react,js,bootstrap,css,figma,firebase,html,nodejs,npm,redux,ts&perline=4" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ### Backend  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,flask,nodejs,npm,postgres,postman,py,sqlite,sklearn,sequelize,tensorflow&perline=3" />
+    <img src="https://skillicons.dev/icons?i=express,flask,nodejs,npm,postgres,postman,py,sqlite,sklearn,sequelize,tensorflow&perline=4" />
   </a>
 </p>
 
