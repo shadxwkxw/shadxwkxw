@@ -11,39 +11,19 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<h2 align="center">
+    Languages and Tools
+</h2>
+&nbsp;
 
-
-
-### Frontend  
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,bootstrap,css,figma,firebase,html,nodejs,npm,redux,ts&perline=4" />
-  </a>
+    <a href="" title="My Skills">
+        <img src="https://skillicons.dev/icons?i=react,html,css,sass,styledcomponents,figma,firebase,js,github,netlify,express,graphql,kafka,mysql,sqlite,nodejs,npm,opencv,postgres,postman,py,sklearn,tensorflow,vite&perline=6" width="" />
+    </a>
 </p>
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,flask,nodejs,npm,postgres,postman,py,sqlite,sklearn,sequelize,tensorflow&perline=4" />
-  </a>
-</p>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bash,docker,github,netlify,vscode&perline=3" />
-  </a>
-</p>
 
 </td></tr></table>  
 
