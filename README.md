@@ -1,15 +1,25 @@
+<h2 align="center">Hi, I'm Maxim</h2>
 
-  ### <div align="center">I'm Maxim, a full-time full-stack developer 👨‍💻</div>  
-  
+<p align="center">
+  Junior Frontend Developer • Hackathon enthusiast
+</p>
 
-- *💪 I am currently studying React, TypeScript, and artificial intelligence creation.*  
-  
+---
 
-- *⚡ Fun fact: I often use keyboard shortcuts.*  
-  
+## 🧠 About Me
 
-<br/>  
+I'm a computer science student currently studying machine learning. I'm passionate about understanding modern technologies and applying my knowledge in practice. I'm particularly drawn to front-end development: I enjoy creating interfaces, working with client-side logic, improving user experience, and building user-friendly web applications using modern tools and frameworks like React and Next.js. I also actively participate in hackathons.
 
+---
+
+## 🚀 Highlights
+
+- Won first place in a hackathon by developing a user-friendly interface for a case study in the banking industry in a highly competitive environment.
+- Develop my own competitive full-stack projects.
+- Won first place in a hackathon as a front-end developer by developing a chat system for bank employees.
+- Actively study current technologies and apply them in practice.  
+
+---
 
 <h2 align="center">
     Languages and Tools
@@ -18,7 +28,7 @@
 
 <p align="center">
     <a href="" title="My Skills">
-        <img src="https://skillicons.dev/icons?i=react,html,css,sass,styledcomponents,figma,firebase,js,github,netlify,express,graphql,kafka,mysql,sqlite,nodejs,npm,opencv,postgres,postman,py,sklearn,tensorflow,vite&perline=6" width="" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass,styledcomponents,figma,firebase,github,netlify,express,graphql,sqlite,nodejs,npm,postgres,postman,py,vite&perline=7" width="" />
     </a>
 </p>
 
