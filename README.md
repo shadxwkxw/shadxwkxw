@@ -1,8 +1,8 @@
 <h1 align="center">hi, I'm Max</h1>
  
-<p align="center"><strong>ML Engineer</strong></p>
+<p align="center"><strong>ML Engineer • Hackathon enthusiast</strong></p>
 <p align="center">
-  <a href="mailto:kxwarvta@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:kxwarvta@mail.ru"><img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/shadxwkxw"><img alt="GitHub" src="https://img.shields.io/badge/github-24292e?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 I'm a Master's student in Intelligent Media Technologies at DSTU (BSc in Machine Learning & AI). I build production-grade ML systems — from fraud detection to recommendation models — with a real MLOps loop behind them: training, orchestration, deployment, monitoring. I also come from a frontend background, which means I can take a model all the way from a notebook to something a person can actually click on.
@@ -33,4 +33,14 @@ I also completed a short-term AI/CV training program in Beijing (PyTorch, Paddle
 **ML & Data:** Python, pandas, NumPy, scikit-learn, CatBoost, XGBoost, PyTorch, SHAP
 **MLOps & Infra:** Apache Airflow, Docker, Kubernetes, FastAPI, CI/CD
 **Frontend:** TypeScript, React, Next.js
+ 
+## One more thing
+ 
+I also work as a **frontend developer** — most of the hackathon wins above shipped with an interface I built myself. React/Next.js dashboards, chat UIs for RAG systems, map-based route visualizations. A couple of self-directed projects if you want to see the range:
+ 
+- **Spotify Clone** — fullstack music player: JWT auth, playback queue, Spotify Web API integration (React, Vite, Node.js/Express, PostgreSQL)
+- **Admin Panel** — CRUD tables, auth, Zod-validated forms (Next.js 14, TypeScript, Zustand)
+<p align="center">
+  <a href="https://github.com/shadxwkxw/btx-admin-panel"><img alt="Admin Panel" src="https://img.shields.io/badge/admin_panel-111111?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
  
