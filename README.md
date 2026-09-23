@@ -1,51 +1,47 @@
 <h2 align="center">Hi, I'm Maxim</h2>
-
+ 
 <p align="center">
-  Junior Frontend Developer • Hackathon enthusiast
+  ML Engineer • Hackathon Winner • Building production-grade ML systems
 </p>
-
 ---
-
+ 
 ## 🧠 About Me
-
-I'm a computer science student currently studying machine learning. I'm passionate about understanding modern technologies and applying my knowledge in practice. I'm particularly drawn to front-end development: I enjoy creating interfaces, working with client-side logic, improving user experience, and building user-friendly web applications using modern tools and frameworks like React and Next.js. I also actively participate in hackathons.
-
+ 
+I'm a Master's student in Intelligent Media Technologies at DSTU, specializing in machine learning and AI. I focus on building production-ready ML systems for real-world problems — from fraud detection to recommendation systems, with a strong emphasis on MLOps: model training, orchestration, deployment, and monitoring. I've also completed a short-term AI training program in Beijing, working with PyTorch and PaddlePaddle on computer vision tasks. Alongside ML, I have a solid frontend background (TypeScript, React, Next.js), which lets me build and demo full ML products end-to-end.
+ 
 ---
-
+ 
 ## 🚀 Highlights
-
-- Won first place in a hackathon by developing a user-friendly interface for a case study in the banking industry in a highly competitive environment.
-- Develop my own competitive full-stack projects.
-- Won first place in a hackathon as a front-end developer by developing a chat system for bank employees.
-- Actively study current technologies and apply them in practice.  
-
+ 
+- 🏆 Winner of the Center-Invest Bank ML case championship — multi-label classification of banking products
+- 🏆 6 hackathon wins in 1.5 years, including 4 cases from Center-Invest Bank: fraud detection, NLP, recommendation systems, intelligent route planning
+- ⚙️ Built a production-grade **Anti-fraud ML System**: full MLOps pipeline with Airflow orchestration, Kubernetes deployment, FastAPI inference, CI/CD with 93% test coverage
+- 🎓 Completed a short-term AI/CV training program in Beijing, China — hands-on with PyTorch and PaddlePaddle
+- 📚 Bachelor's thesis: traffic light phase optimization using computer vision and conflict analysis
 ---
-
+ 
 <h2 align="center">
     Languages and Tools
 </h2>
 &nbsp;
-
 <p align="center">
     <a href="" title="My Skills">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,sass,styledcomponents,figma,firebase,github,netlify,express,graphql,sqlite,nodejs,npm,postgres,postman,py,vite&perline=7" width="" />
+        <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,fastapi,docker,kubernetes,postgres,react,nextjs,ts,git,github&perline=6" width="" />
     </a>
 </p>
-
-</td><td valign="top" width="33%">
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+<p align="center">
+    <b>ML & Data:</b> Python, pandas, NumPy, scikit-learn, CatBoost, XGBoost, PyTorch, SHAP<br/>
+    <b>MLOps & Infra:</b> Apache Airflow, Docker, Kubernetes, FastAPI, CI/CD<br/>
+    <b>Frontend (secondary):</b> TypeScript, React, Next.js
+</p>
+<br/>
+## Connect with me
 <div align="center">
 <a href="https://instagram.com/kxwarvta" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/shadxwkxw" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>
+</div>
+ 
