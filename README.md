@@ -1,47 +1,36 @@
-<h2 align="center">Hi, I'm Maxim</h2>
+<h1 align="center">hi, I'm Max</h1>
+ 
+<p align="center"><strong>ML Engineer</strong></p>
+<p align="center">
+  <a href="mailto:kxwarvta@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/shadxwkxw"><img alt="GitHub" src="https://img.shields.io/badge/github-24292e?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+I'm a Master's student in Intelligent Media Technologies at DSTU (BSc in Machine Learning & AI). I build production-grade ML systems — from fraud detection to recommendation models — with a real MLOps loop behind them: training, orchestration, deployment, monitoring. I also come from a frontend background, which means I can take a model all the way from a notebook to something a person can actually click on.
+ 
+## What I do
+ 
+- **ML systems that leave the notebook** — training pipelines, batch + online inference, the infrastructure that keeps a model alive in production.
+- **The boring half that makes it real** — FastAPI → Docker → Kubernetes, Airflow for orchestration, CI/CD with real test coverage.
+- **Interfaces for ML products** — when a model needs a face, I build it: dashboards, chat UIs for RAG systems, map-based visualizations.
+## Highlights
+ 
+**Six first-place finishes in 18 months**, most of them Center-Invest Bank cases at the Southern IT Forum:
+ 
+- 🥇 [**III Case Championship, IT University Consortium**](https://news.donstu.ru/news/studenty-dgtu-vyigrali-tretiy-regionalnyy-keys-chempionat-po-mashinnomu-obucheniyu) — multi-label banking product classifier, built together with a teammate, ROC-AUC ≈ 0.66 on the hidden leaderboard · **my role: modeling, validation, feature engineering**
+- 🥇 [**Spring Hackathon 2026**](https://www.centrinvest.ru/about/press-releases/bank-tsentr-invest-na-iuzhnom-it-forume) — AI knowledge-processing platform with RAG over a private document base · **my role: frontend — chat interface, document upload/processing flow**
+- 🥇 [**Autumn Hackathon 2025**](https://www.centrinvest.ru/about/press-releases/bank-tsentr-invest-provel-khakaton-osen-2025) — route optimizer for field sales visits · **my role: frontend — interactive route visualization on the map**
+- 🥇 [**AIST-2 ML Hackathon**](https://donstu.ru/news/about-new/?code=institut-skvoznykh-tekhnologiy-provodit-khakaton-po-iskusstvennomu-intellektu-aist-) — UAV search-and-rescue detection system · **my role: frontend for the operator interface**
+- 🥇 [**AIST ML Hackathon**](https://www.centrinvest.ru/about/press-releases/bank-tsentr-invest-podderzhal-otkrytie-unikalnoi-laboratorii-po-razrabotke-igr-i-iskusstvennogo-intellekta) — PII filtering system for text · **my role: frontend — input form and entity-highlighting UI**
+Independently, I built **Anti-fraud ML System** — a self-directed production-grade project: full MLOps pipeline (Airflow orchestration, Kubernetes deployment, FastAPI inference), CI/CD with 93% test coverage, Clean Architecture.
+ 
+I also completed a short-term AI/CV training program in Beijing (PyTorch, PaddlePaddle), and my Bachelor's thesis applied computer vision to traffic-light phase optimization based on conflict analysis.
+ 
+## Stack
  
 <p align="center">
-  ML Engineer • Hackathon Winner • Building production-grade ML systems
+  <a href="https://skillicons.dev"><img alt="stack" src="https://skillicons.dev/icons?i=python,sklearn,pytorch,fastapi,docker,kubernetes,postgres,react,nextjs,ts,git,github&perline=6"></a>
 </p>
----
- 
-## 🧠 About Me
- 
-I'm a Master's student in Intelligent Media Technologies at DSTU, specializing in machine learning and AI. I focus on building production-ready ML systems for real-world problems — from fraud detection to recommendation systems, with a strong emphasis on MLOps: model training, orchestration, deployment, and monitoring. I've also completed a short-term AI training program in Beijing, working with PyTorch and PaddlePaddle on computer vision tasks. Alongside ML, I have a solid frontend background (TypeScript, React, Next.js), which lets me build and demo full ML products end-to-end.
- 
----
- 
-## 🚀 Highlights
- 
-- 🏆 Winner of the Center-Invest Bank ML case championship — multi-label classification of banking products
-- 🏆 6 hackathon wins in 1.5 years, including 4 cases from Center-Invest Bank: fraud detection, NLP, recommendation systems, intelligent route planning
-- ⚙️ Built a production-grade **Anti-fraud ML System**: full MLOps pipeline with Airflow orchestration, Kubernetes deployment, FastAPI inference, CI/CD with 93% test coverage
-- 🎓 Completed a short-term AI/CV training program in Beijing, China — hands-on with PyTorch and PaddlePaddle
-- 📚 Bachelor's thesis: traffic light phase optimization using computer vision and conflict analysis
----
- 
-<h2 align="center">
-    Languages and Tools
-</h2>
-&nbsp;
-<p align="center">
-    <a href="" title="My Skills">
-        <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,fastapi,docker,kubernetes,postgres,react,nextjs,ts,git,github&perline=6" width="" />
-    </a>
-</p>
-<p align="center">
-    <b>ML & Data:</b> Python, pandas, NumPy, scikit-learn, CatBoost, XGBoost, PyTorch, SHAP<br/>
-    <b>MLOps & Infra:</b> Apache Airflow, Docker, Kubernetes, FastAPI, CI/CD<br/>
-    <b>Frontend (secondary):</b> TypeScript, React, Next.js
-</p>
-<br/>
-## Connect with me
-<div align="center">
-<a href="https://instagram.com/kxwarvta" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/shadxwkxw" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>
+**ML & Data:** Python, pandas, NumPy, scikit-learn, CatBoost, XGBoost, PyTorch, SHAP
+**MLOps & Infra:** Apache Airflow, Docker, Kubernetes, FastAPI, CI/CD
+**Frontend:** TypeScript, React, Next.js
  
